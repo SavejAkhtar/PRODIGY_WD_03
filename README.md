@@ -42,7 +42,7 @@ Users can play against each other or an AI opponent, aiming to place **three mar
 
 ## 🔗 Connect with Me
 
-- GitHub: [SavejAkhtar](https://github.com/SavejAkhtar)
+- GitHub: https://github.com/SavejAkhtar
 - LinkedIn: www.linkedin.com/in/savej-akhtar-profile
 
 
