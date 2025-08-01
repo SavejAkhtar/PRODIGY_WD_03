@@ -28,7 +28,7 @@ Users can play against each other or an AI opponent, aiming to place **three mar
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 
 ---
 
